@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527984136 source:c:\users\clake becil\desktop\euler\euler24\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

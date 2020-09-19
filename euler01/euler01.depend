@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526410711 source:c:\users\clake becil\desktop\c++\chapter10\euler01\main.cpp
+	<iostream>
+	<string>
+
+1531365952 source:c:\users\clake becil\desktop\euler\euler01\main.cpp
+	<iostream>
+	<string>
+

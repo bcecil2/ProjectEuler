@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526611861 source:c:\users\clake becil\desktop\c++\chapter10\euler17\main.cpp
+	<iostream>
+	<string>
+	<array>
+

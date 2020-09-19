@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527213498 source:c:\users\clake becil\desktop\c++\chapter10\euler29\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+

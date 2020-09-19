@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526439963 source:c:\users\clake becil\desktop\c++\chapter10\euler10\main.cpp
+	<iostream>
+	<vector>
+

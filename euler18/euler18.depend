@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528250851 source:c:\users\clake becil\desktop\euler\euler18\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526697913 source:c:\users\clake becil\desktop\c++\chapter10\euler22\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	<string>
+
